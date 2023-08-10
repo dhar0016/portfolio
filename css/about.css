@@ -31,3 +31,9 @@ section.about-sec .container-2{
     width: 100%;
     height: auto;
 }
+
+section.about-sec .container-2 .skill-bar {
+    width: 60%;
+    height: auto;
+  }
+  
