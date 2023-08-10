@@ -48,3 +48,14 @@ section.contact-sec .column-60-left form input::placeholder {
     padding-left: 20px;
 }
 
+section.contact-sec .column-60-left form  textarea::placeholder{
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+
+/*Styling the submit btn*/
+section.contact-sec .column-60-left form input.submit{
+    transition: 0.36s ease-in;
+}
+
