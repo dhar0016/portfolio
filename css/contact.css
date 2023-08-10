@@ -1,4 +1,4 @@
-
+/*Default contact page screen size*/
 section.contact-sec{
     width: 100%;
     min-height: 100vh;
@@ -10,6 +10,7 @@ section.contact-sec h1{
     color: #121212;
     margin-top: 50px;
 }
+
 
 section.contact-sec h1 span{
     color: #F05454;
@@ -44,6 +45,7 @@ section.contact-sec .column-60-left form textarea{
     background-color: #E1E1E1;
 }
 
+/*input field label style*/
 section.contact-sec .column-60-left form label{
     margin-top: 20px;
     font-size: 15px;
@@ -55,6 +57,7 @@ section.contact-sec .column-60-left form input::placeholder {
     padding-left: 20px;
 }
 
+/*Input place holder padding*/
 section.contact-sec .column-60-left form  textarea::placeholder{
     padding-left: 20px;
     padding-top: 10px;
