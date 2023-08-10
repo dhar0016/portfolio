@@ -13,3 +13,8 @@ section.contact-sec h1 span{
 
 }
 
+section.contact-sec .container {
+    height: 80%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
