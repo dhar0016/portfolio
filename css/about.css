@@ -2,4 +2,9 @@ section.about-sec{
     min-height: 100vh;
 }
 
+section.about-sec h1{
+    color: #121212;
+    margin-top: 50px;
+}
+
 
