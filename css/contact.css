@@ -1,0 +1,15 @@
+section.contact-sec{
+    width: 100%;
+    min-height: 100vh;
+}
+
+section.contact-sec h1{
+    color: #121212;
+    margin-top: 50px;
+}
+
+section.contact-sec h1 span{
+    color: #F05454;
+
+}
+
