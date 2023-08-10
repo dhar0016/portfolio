@@ -31,3 +31,10 @@ section.contact-sec .column-60-left form input:not(.submit){
     height: 40px;
     background-color: #E1E1E1;
 }
+
+section.contact-sec .column-60-left form textarea{
+    width: 100%;
+    height: auto;
+    background-color: #E1E1E1;
+}
+
