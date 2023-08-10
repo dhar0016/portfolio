@@ -38,3 +38,13 @@ section.contact-sec .column-60-left form textarea{
     background-color: #E1E1E1;
 }
 
+section.contact-sec .column-60-left form label{
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+section.contact-sec .column-60-left form input::placeholder {
+    padding-left: 20px;
+}
+
