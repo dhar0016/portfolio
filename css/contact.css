@@ -59,3 +59,10 @@ section.contact-sec .column-60-left form input.submit{
     transition: 0.36s ease-in;
 }
 
+/*Right side image properties*/
+section.contact-sec .column-40-right img{
+    width:100%;
+    height: auto;
+    border-radius: 10px;
+}
+
