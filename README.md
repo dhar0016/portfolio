@@ -22,7 +22,8 @@ I struggled for loading time of the web pages so optimize images(In my previous 
 
  ## list of any assets or resources you used that was not your own, including any frameworks, libraries, plugins, fonts, or images?
 
-   - I used commercial free google font - Poppins
+   - I used commercial free google font - Poppins (https://fonts.googleapis.com/css2?family=Poppins&display=swap)
    - I used my own design images for this website
+   - Plugin - bootstrap.com (https://getbootstrap.com/)
 
      
