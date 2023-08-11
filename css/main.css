@@ -18,7 +18,7 @@ body{
     scroll-behavior: smooth;
 }
 
-
+/*Skip Link style properties*/
 .skip-to-main-content-link {
     position: absolute;
     left: -9999px;
