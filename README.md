@@ -25,6 +25,7 @@ I struggled for loading time of the web pages so optimize images(In my previous 
    - I used commercial free google font - Poppins ([https://fonts.googleapis.com/css2?family=Poppins&display=swap](https://fonts.google.com/specimen/Poppins?query=poppins))
    - I used my own design images for this website
    - I Used 2 images for home page and contact page (freepik.com)- https://www.freepik.com/free-vector/alone-concept-illustration_8774989.htm#query=alone%20man&position=0&from_view=keyword&track=ais, https://www.freepik.com/free-vector/call-center-concept-illustration_8252009.htm#query=contact%20illustration&position=13&from_view=keyword&track=ais
+   - I Added 3 customer images for reviews in home page- (https://randomuser.me/photos)
      
    - Plugin - bootstrap.com (https://getbootstrap.com/)
 
